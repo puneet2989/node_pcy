@@ -1,0 +1,19 @@
+{
+  "name": "node_pcy",
+  "version": "1.0.0",
+  "description": "A very simple node reporitory",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/puneet2989/node_pcy.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/puneet2989/node_pcy/issues"
+  },
+  "homepage": "https://github.com/puneet2989/node_pcy#readme"
+}
