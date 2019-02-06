@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/puneet2989/node_pcy/issues"
   },
-  "homepage": "https://github.com/puneet2989/node_pcy#readme"
+  "homepage": "https://github.com/puneet2989/node_pcy#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
 }
